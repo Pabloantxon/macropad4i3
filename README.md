@@ -7,3 +7,4 @@ The encoder has the middle pin connected to GND and the side pins on pins 14 and
 
 The box design is a bit feeble, and should be made better in case it was going to be moved constantly from one place to another. In my case it is enough, since it is going to sit on my desktop. 
 Four M3 and one M2 short screws needed. The M3 screws are on the left side, the M2 is for holding the M5StampS3.
+Oh and some kind of anti slip rubber thingies should be used on the legs.
